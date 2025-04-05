@@ -1,0 +1,9 @@
+/// to generate swagger.json  npx tsoa spec-and-routes
+
+// 209.38.238.194
+// ibc-finance.com
+// back.ibc-finance.com
+// Username : root 
+// Password : digitalLayan@2023!!ocean
+
+// ALTER USER 'root'@'localhost'IDENTIFIED WITH mysql_native_password BY 'SQL@1234ibc_financial';
